@@ -1,9 +1,5 @@
 package com.jdkgroup.retrofithelper;
 
-/**
- * Created by Jaison on 16/11/16.
- */
-
 public class UserDetails {
 
     private Details details;
