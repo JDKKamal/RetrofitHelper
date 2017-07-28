@@ -15,10 +15,6 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-/**
- * Created by Jaison on 05/10/16.
- */
-
 public class APICall<T> {
 
     private Call call;

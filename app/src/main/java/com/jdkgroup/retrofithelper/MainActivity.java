@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     String TAG = "Retrofit Example";
     APICall networkCall;
 
-    public static final String BASE_URL = "";
+    public static final String BASE_URL = "http://api.droidmentor.com/";
 
     private AppCompatEditText edtAppUserEmail, edtAppUsername;
     private TextInputLayout inputUserName, inputUserEmail;

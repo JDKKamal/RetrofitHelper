@@ -1,9 +1,5 @@
 package com.jdkgroup.retrofitlib;
 
-/**
- * Created by Jaison on 16/10/15.
- */
-
 import android.app.Activity;
 import android.content.Context;
 import android.net.ConnectivityManager;

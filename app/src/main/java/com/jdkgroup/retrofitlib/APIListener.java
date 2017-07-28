@@ -2,10 +2,6 @@ package com.jdkgroup.retrofitlib;
 
 import retrofit2.Response;
 
-/**
- * Created by Jaison on 05/10/16.
- */
-
 public interface APIListener
 {
      void onSuccess(int from, Response response, Object res);
